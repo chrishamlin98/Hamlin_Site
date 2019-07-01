@@ -14,7 +14,7 @@ layout: page
 	<li>Java 8.0 (Eclipse)<li>
 	<li>HTML</li>
 	<li>CSS</li>
-	<li>Css Frameworks (Bootstrap)</li>
+	<li>CSS Frameworks (Bootstrap)</li>
 	<li>MySQL</li>
 	<li>XAMPP</li>
 </ul>
