@@ -17,7 +17,7 @@ resume-external: false
 resume-url: 
 
 #url: https://koppl.in/indigo
-your url: http://chrishamlin98.github.io
+your url: http://github.io/chrishamlin98
 
 permalink: /:title/
 
@@ -42,7 +42,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/chrishamlin98
+github: chrishamlin98
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
