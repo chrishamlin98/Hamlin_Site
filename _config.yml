@@ -13,8 +13,8 @@ picture: assets/images/IMG_0043.JPG
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: 
+resume-external: true
+resume-url: https://docs.google.com/document/d/1ol9m6fbbO8_16yb3QqfTFBO0JMpaifY9oknDGjz3418/edit?usp=sharing
 
 #url: https://koppl.in/indigo
 your url: http://github.io/chrishamlin98
